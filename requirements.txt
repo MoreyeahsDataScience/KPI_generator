@@ -19,7 +19,7 @@ google-api-core=2.21.0=pypi_0
 google-api-python-client=2.149.0=pypi_0
 google-auth=2.35.0=pypi_0
 google-auth-httplib2=0.2.0=pypi_0
-google-generativeai=0.8.3=pypi_0
+google-generativeai=0.8.3
 googleapis-common-protos=1.65.0=pypi_0
 grpcio=1.66.2=pypi_0
 grpcio-status=1.66.2=pypi_0
